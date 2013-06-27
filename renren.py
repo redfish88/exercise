@@ -22,8 +22,8 @@ __author__ = """Reverland (lhtlyy@gmail.com)"""
 
 # Control parameters,EDIT it here
 ## Login
-username = 'lvrenkun@163.com'
-password = 'lv880612'
+username = '********'
+password = '********'
 ## Control Graphs, Edit for better graphs as you need
 label_flag = True # Whether shows labels.NOTE: configure your matplotlibrc for Chinese characters.
 remove_isolated = True # Whether remove isolated nodes(less than iso_level connects)
